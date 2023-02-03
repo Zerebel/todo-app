@@ -1,0 +1,28 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Zerebel/todo-app.git"
+  },
+  "keywords": [
+    "Zerebel",
+    "HTML",
+    "CSS",
+    "React",
+    "vite",
+    "WEB",
+    "front-end"
+  ],
+  "author": "Zerebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zerebel/todo-app/issues"
+  },
+  "homepage": "https://github.com/Zerebel/todo-app#readme"
+}
